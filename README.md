@@ -29,13 +29,11 @@ My doctoral research from 2016-2021, funded by the National Library of Medicine,
 
 ## 🛠️ Technical Skills
 
-```
-Programming Languages: Python, R, MATLAB, SAS, SQL, Java, JavaScript, Julia (beginner!), Prolog (occasional user and beginner!), Wolfram Language
-Machine Learning & Data Science: TensorFlow, PyTorch, scikit-learn, Keras, Hadoop, Spark, tidyverse, caret
-Data Visualization: Tableau, ggplot2, D3.js, matplotlib, Tufte and Gestalt principles (not a tool but more of frameworks)
-Cloud & Version Control: AWS, Google Cloud Platform, Azure, Git, GitHub
-Other Tools: LaTeX, Adobe Creative Cloud, MS Office, REDCap, RMarkdown
-```
+- Programming Languages: Python, R, MATLAB, SAS, SQL, Java, JavaScript, Julia (beginner!), Prolog (occasional user and beginner!), Wolfram Language
+- Machine Learning & Data Science: TensorFlow, PyTorch, scikit-learn, Keras, Hadoop, Spark, tidyverse, caret
+- Data Visualization: Tableau, ggplot2, D3.js, matplotlib, Tufte and Gestalt principles (not a tool but more of frameworks)
+- Cloud & Version Control: AWS, Google Cloud Platform, Azure, Git, GitHub
+- Other Tools: LaTeX, Adobe Creative Cloud, MS Office, REDCap, RMarkdown
 
 ## 🎓 Education
 
